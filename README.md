@@ -1,4 +1,4 @@
-# Hi there, I'm Sebastian García 👋
+# Hi there, I'm Sebastián García 👋
 
 ### Computer Science Engineering Student at Universidad del Valle de Guatemala (UVG)
 

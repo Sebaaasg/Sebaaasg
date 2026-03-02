@@ -36,5 +36,6 @@ Based in Guatemala, I am a Computer Science student. I am currently transitionin
 
 <p align="left">
 <a href="mailto:estuardosebastian10@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sebastian" /></a>
+<a href="https://www.linkedin.com/in/sebastián-garcia/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 

@@ -19,8 +19,13 @@ Based in Guatemala, I am a Computer Science student. I am currently transitionin
 ### 📈 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebaaasg&show_icons=true&theme=dracula&hide_border=true" height="160" alt="General Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebaaasg&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+
+[![github stats](https://github-readme-stats-weld-iota-18.vercel.app/api?username=Sebaaasg&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+[![Top languages](https://github-readme-stats-weld-iota-18.vercel.app/api/top-langs/?username=Sebaaasg&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![current streak](https://streak-stats.demolab.com/?user=Sebaaasg&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 </div>
 
 ---

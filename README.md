@@ -1,6 +1,8 @@
 # Hi there, I'm Sebastián García!
 
-### Computer Science Engineering Student at Universidad del Valle de Guatemala (UVG)
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=25&duration=2500&pause=1000&color=F7F7F7&background=FFFECD00&multiline=true&repeat=false&width=1000&height=60&lines=Computer+Science+Engineering+Student+at+Universidad+del+Valle+de+Guatemala+(UVG)" alt="Typing SVG" /></a>
+</div>
 
 Based in Guatemala, I am a Computer Science student. I am currently transitioning from core engineering principles to professional software development, focusing on scalable code and efficient data structures.
 

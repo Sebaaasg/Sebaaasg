@@ -10,7 +10,7 @@ Based in Guatemala, I am a Computer Science student. I am currently transitionin
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,css,html,python,js,git,github,vscode,figma,stackoverflow&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,css,html,python,js,cs,git,github,vscode,figma,linkedin,stackoverflow&perline=13" />
   </a>
 </p>
 

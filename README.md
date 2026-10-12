@@ -12,7 +12,7 @@ From Guatemala, I'm a Computer Science student. I am currently transitioning fro
 
 <p align="left">
   <a href="https://github.com/Sebaaasg">
-    <img src="https://skillicons.dev/icons?i=java,css,html,python,js,cs,git,github,vscode,figma,linkedin,stackoverflow&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,css,html,python,cs,git,github,vscode,figma,linkedin,stackoverflow&perline=13" />
   </a>
 </p>
 
